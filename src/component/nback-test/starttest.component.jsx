@@ -148,7 +148,7 @@ const Starttestnback = () => {
                 <div className="offset-2 col-8">
                   <div
                     className="jumbotron featurejumbotron"
-                    style={{ height: "17rem" }}
+                    style={{ height: "20rem" }}
                   >
                     <div className="container d-flex justify-content-center">
                       {isToggled === true ? (
@@ -156,8 +156,9 @@ const Starttestnback = () => {
                           {number > -1 && number < 8 ? (
                             <>
                               <div
-                                className=" col-md-2 py-3 col-4 fontfa"
+                                className=" col-md-2 py-4 col-4 fonten"
                                 style={{
+                                  fontSize:"1rem",
                                   backgroundColor: "blue",
                                   textAlign: "center",
                                   color: "white",
