@@ -1,0 +1,97 @@
+@font-face {
+  font-family: "Nazanin";
+  src: url("https://cdn.fontcdn.ir/Font/Persian/Nazanin/Nazanin-Bold.eot");
+  src: url("https://cdn.fontcdn.ir/Font/Persian/Nazanin/Nazanin-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://cdn.fontcdn.ir/Font/Persian/Nazanin/Nazanin-Bold.woff")
+      format("woff"),
+    url("https://cdn.fontcdn.ir/Font/Persian/Nazanin/Nazanin-Bold.ttf")
+      format("truetype");
+  font-weight: bold;
+}
+
+.sectionMenu .alignmenu {
+  text-align: right;
+}
+.sectionMenu .alignmenu .linkstyle {
+  color: rgb(0, 0, 0);
+}
+.sectionMenu .alignmenu .linkstyle:hover {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+.sectionMenu .alignmenu .fonten {
+  font-family: "Roboto";
+}
+
+.sectionShowNumber .featureRow {
+  margin-top: 7rem;
+}
+
+.sectionShowNumber .featureRow .featurejumbotron {
+  background-color: #e9ecef;
+  margin-top: 2rem;
+}
+.sectionShowNumber .featureRow .fontfa {
+  font-family: "Nazanin";
+}
+.sectionShowNumber .fontfa .text {
+  font-size: 5rem;
+  text-align: center;
+  padding-top: 2rem;
+  height: 10rem;
+}
+
+.showFeedback .fontfa {
+  font-family: "Nazanin";
+}
+.showFeedback .alignFeedback {
+  text-align: center;
+}
+.sectionStartTest .featureRow {
+  margin-top: 7rem;
+}
+
+.sectionStartTest .featureRow .featurejumbotron {
+  background-color: #e9ecef;
+  margin-top: 2rem;
+}
+.sectionStartTest .featureRow .fontfa {
+  font-family: "Nazanin";
+}
+.sectionStartTest .fontfa .text {
+  font-size: 5rem;
+  text-align: center;
+  padding-top: 4rem;
+  height: 15rem;
+}
+.sectionStartTest .fontfa .text .linkstyle {
+  color: black;
+}
+
+.sectionStartTest .fontfa .text .linkstyle:hover {
+  text-decoration: none;
+  color: white;
+}
+
+.sectionShowResult {
+  background-color: rgba(252, 252, 252, 0.938);
+}
+.sectionShowResult .colorTitleSectionShowResult {
+  background-color: white;
+}
+.sectionShowResult .directionContentTable {
+  text-align: right;
+}
+.sectionShowResult .directionResultTable {
+  text-align: center;
+}
+.sectionShowResult .fontfa {
+  font-family: "Nazanin";
+}
+.sectionShowResult .borderTable {
+  box-shadow: 10px 10px rgb(190, 190, 182);
+}
+.sectionShowResult .backgroundTableResult {
+  background-color: white;
+}
